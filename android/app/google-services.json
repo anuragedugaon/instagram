@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "868719969585",
+    "project_id": "calm-vertex-387507",
+    "storage_bucket": "calm-vertex-387507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868719969585:android:e952384b61cbbc6c811c10",
+        "android_client_info": {
+          "package_name": "com.example.instagaram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcvMd23lkXI3FNWXsqEBTDEABtRqf2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868719969585:android:ba6d8deb8920f506811c10",
+        "android_client_info": {
+          "package_name": "com.example.practiceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcvMd23lkXI3FNWXsqEBTDEABtRqf2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868719969585:android:576955cf922509eb811c10",
+        "android_client_info": {
+          "package_name": "com.fameouscoder.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868719969585-bpgpo2d95d6gh1ln0e9ebmmk7v0npcmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fameouscoder.firebase",
+            "certificate_hash": "ea2dca1222f77db251188c73f62a5cdd7936e7ec"
+          }
+        },
+        {
+          "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcvMd23lkXI3FNWXsqEBTDEABtRqf2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868719969585:android:b152000a6a43ed65811c10",
+        "android_client_info": {
+          "package_name": "com.fameouscoder.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcvMd23lkXI3FNWXsqEBTDEABtRqf2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868719969585-fo5ntpv1a1vjvle5kkd91bnbvfehkau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
